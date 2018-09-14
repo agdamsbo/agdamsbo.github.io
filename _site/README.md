@@ -1,3 +1,0 @@
-# agdamsbo.github.io
-
-homepage
