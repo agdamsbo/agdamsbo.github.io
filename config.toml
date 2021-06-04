@@ -1,0 +1,4 @@
+baseURL = "https://agdamsbo@github.io/"
+languageCode = "en-us"
+title = "Andreas Gammelgaard Damsbo"
+theme = "ananke"
